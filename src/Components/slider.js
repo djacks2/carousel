@@ -16,7 +16,7 @@ const photos = [
     },
     {
         name: "Photo 3",
-        url: "../img/nickiminaj.jpg",
+        url: "../img/kanye.jpg",
         alt: "astroworld"
     },
     {
@@ -26,7 +26,7 @@ const photos = [
     },
     {
         name: "Photo 5",
-        url: "../img/kidcudi.jpg",
+        url: "../img/Beyonce.jpg",
         alt: "Shoe Wall"
     }
 ]

@@ -1,10 +1,8 @@
 
 .carousel-slide {
     text-align: center;
-    /* margin: auto; */
-    width: 50%;
-    padding-left: 50px;
-    height: 300px;
+    width: 60%;
+    padding-left: 300px;
     margin-right: 50px;
   }
   .slides .slick-prev,
@@ -29,4 +27,8 @@
   }
   .slides .slick-next {
     right: 25px;
+  }
+  img {
+      height: 600px;
+      
   }
